@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "TestProject", "TestDateControl\TestProject.csdproj", "{0AC61E26-E20A-4146-9F95-81E7E8D297E5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "DateBoxControl", "DateBoxControl\DateBoxControl.csdproj", "{0C96679A-9156-4C5B-A5B5-153416C35D7C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "TaskStatusControl", "TaskStatusControl\TaskStatusControl.csdproj", "{D86ED307-9E7F-4FED-88A1-7187098065EA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateBoxDesign", "DateBoxDesign\DateBoxDesign.csproj", "{E7E3CD60-766D-4EAC-BF71-8CA1FEE31522}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0AC61E26-E20A-4146-9F95-81E7E8D297E5}.Debug.ActiveCfg = Debug|Pocket PC
+		{0AC61E26-E20A-4146-9F95-81E7E8D297E5}.Debug.Build.0 = Debug|Pocket PC
+		{0AC61E26-E20A-4146-9F95-81E7E8D297E5}.Debug.Deploy.0 = Debug|Pocket PC
+		{0AC61E26-E20A-4146-9F95-81E7E8D297E5}.Release.ActiveCfg = Debug|Pocket PC
+		{0AC61E26-E20A-4146-9F95-81E7E8D297E5}.Release.Build.0 = Debug|Pocket PC
+		{0AC61E26-E20A-4146-9F95-81E7E8D297E5}.Release.Deploy.0 = Debug|Pocket PC
+		{0C96679A-9156-4C5B-A5B5-153416C35D7C}.Debug.ActiveCfg = Debug|Pocket PC
+		{0C96679A-9156-4C5B-A5B5-153416C35D7C}.Debug.Build.0 = Debug|Pocket PC
+		{0C96679A-9156-4C5B-A5B5-153416C35D7C}.Debug.Deploy.0 = Debug|Pocket PC
+		{0C96679A-9156-4C5B-A5B5-153416C35D7C}.Release.ActiveCfg = Debug|Pocket PC
+		{0C96679A-9156-4C5B-A5B5-153416C35D7C}.Release.Build.0 = Debug|Pocket PC
+		{0C96679A-9156-4C5B-A5B5-153416C35D7C}.Release.Deploy.0 = Debug|Pocket PC
+		{D86ED307-9E7F-4FED-88A1-7187098065EA}.Debug.ActiveCfg = Debug|Pocket PC
+		{D86ED307-9E7F-4FED-88A1-7187098065EA}.Debug.Build.0 = Debug|Pocket PC
+		{D86ED307-9E7F-4FED-88A1-7187098065EA}.Debug.Deploy.0 = Debug|Pocket PC
+		{D86ED307-9E7F-4FED-88A1-7187098065EA}.Release.ActiveCfg = Release|Pocket PC
+		{D86ED307-9E7F-4FED-88A1-7187098065EA}.Release.Build.0 = Release|Pocket PC
+		{D86ED307-9E7F-4FED-88A1-7187098065EA}.Release.Deploy.0 = Release|Pocket PC
+		{E7E3CD60-766D-4EAC-BF71-8CA1FEE31522}.Debug.ActiveCfg = Debug|.NET
+		{E7E3CD60-766D-4EAC-BF71-8CA1FEE31522}.Debug.Build.0 = Debug|.NET
+		{E7E3CD60-766D-4EAC-BF71-8CA1FEE31522}.Release.ActiveCfg = Release|.NET
+		{E7E3CD60-766D-4EAC-BF71-8CA1FEE31522}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

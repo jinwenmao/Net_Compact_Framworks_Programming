@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "PrintField", "PrintField.csdproj", "{835C112C-407A-4E1C-B8B5-F77CE02DB2CB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{835C112C-407A-4E1C-B8B5-F77CE02DB2CB}.Debug.ActiveCfg = Debug|Pocket PC
+		{835C112C-407A-4E1C-B8B5-F77CE02DB2CB}.Debug.Build.0 = Debug|Pocket PC
+		{835C112C-407A-4E1C-B8B5-F77CE02DB2CB}.Debug.Deploy.0 = Debug|Pocket PC
+		{835C112C-407A-4E1C-B8B5-F77CE02DB2CB}.Release.ActiveCfg = Release|Pocket PC
+		{835C112C-407A-4E1C-B8B5-F77CE02DB2CB}.Release.Build.0 = Release|Pocket PC
+		{835C112C-407A-4E1C-B8B5-F77CE02DB2CB}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "TextAlign", "TextAlign.csdproj", "{2EE044EE-B33E-411A-B37A-6564BD9E6CC2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2EE044EE-B33E-411A-B37A-6564BD9E6CC2}.Debug.ActiveCfg = Debug|Pocket PC
+		{2EE044EE-B33E-411A-B37A-6564BD9E6CC2}.Debug.Build.0 = Debug|Pocket PC
+		{2EE044EE-B33E-411A-B37A-6564BD9E6CC2}.Debug.Deploy.0 = Debug|Pocket PC
+		{2EE044EE-B33E-411A-B37A-6564BD9E6CC2}.Release.ActiveCfg = Release|Pocket PC
+		{2EE044EE-B33E-411A-B37A-6564BD9E6CC2}.Release.Build.0 = Release|Pocket PC
+		{2EE044EE-B33E-411A-B37A-6564BD9E6CC2}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

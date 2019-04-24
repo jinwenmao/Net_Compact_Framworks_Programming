@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "YaoDurant.Controls.PostalCodeTextBox", "YaoDurant.Controls.PostalCodeTextBox.csdproj", "{EEEC7603-4B85-4E27-BAF2-A672CDE65C7E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "MyAddress", "MyAddress.csdproj", "{1A9374FF-3CAA-4883-9F37-D25713822C61}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EEEC7603-4B85-4E27-BAF2-A672CDE65C7E}.Debug.ActiveCfg = Debug|Pocket PC
+		{EEEC7603-4B85-4E27-BAF2-A672CDE65C7E}.Debug.Build.0 = Debug|Pocket PC
+		{EEEC7603-4B85-4E27-BAF2-A672CDE65C7E}.Debug.Deploy.0 = Debug|Pocket PC
+		{EEEC7603-4B85-4E27-BAF2-A672CDE65C7E}.Release.ActiveCfg = Release|Pocket PC
+		{EEEC7603-4B85-4E27-BAF2-A672CDE65C7E}.Release.Build.0 = Release|Pocket PC
+		{EEEC7603-4B85-4E27-BAF2-A672CDE65C7E}.Release.Deploy.0 = Release|Pocket PC
+		{1A9374FF-3CAA-4883-9F37-D25713822C61}.Debug.ActiveCfg = Debug|Pocket PC
+		{1A9374FF-3CAA-4883-9F37-D25713822C61}.Debug.Build.0 = Debug|Pocket PC
+		{1A9374FF-3CAA-4883-9F37-D25713822C61}.Debug.Deploy.0 = Debug|Pocket PC
+		{1A9374FF-3CAA-4883-9F37-D25713822C61}.Release.ActiveCfg = Release|Pocket PC
+		{1A9374FF-3CAA-4883-9F37-D25713822C61}.Release.Build.0 = Release|Pocket PC
+		{1A9374FF-3CAA-4883-9F37-D25713822C61}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

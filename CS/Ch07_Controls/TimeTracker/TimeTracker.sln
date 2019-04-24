@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "TimeTracker", "TimeTracker.csdproj", "{1E812370-14BE-41FD-A091-6E820D4FC3AE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1E812370-14BE-41FD-A091-6E820D4FC3AE}.Debug.ActiveCfg = Debug|Pocket PC
+		{1E812370-14BE-41FD-A091-6E820D4FC3AE}.Debug.Build.0 = Debug|Pocket PC
+		{1E812370-14BE-41FD-A091-6E820D4FC3AE}.Debug.Deploy.0 = Debug|Pocket PC
+		{1E812370-14BE-41FD-A091-6E820D4FC3AE}.Release.ActiveCfg = Release|Pocket PC
+		{1E812370-14BE-41FD-A091-6E820D4FC3AE}.Release.Build.0 = Release|Pocket PC
+		{1E812370-14BE-41FD-A091-6E820D4FC3AE}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

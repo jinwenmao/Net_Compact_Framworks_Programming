@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "MemoryStatus", "MemoryStatus.csdproj", "{4CAFF5FA-281D-4D7C-9E5F-FF70F265F56B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4CAFF5FA-281D-4D7C-9E5F-FF70F265F56B}.Debug.ActiveCfg = Debug|Windows CE
+		{4CAFF5FA-281D-4D7C-9E5F-FF70F265F56B}.Debug.Build.0 = Debug|Windows CE
+		{4CAFF5FA-281D-4D7C-9E5F-FF70F265F56B}.Debug.Deploy.0 = Debug|Windows CE
+		{4CAFF5FA-281D-4D7C-9E5F-FF70F265F56B}.Release.ActiveCfg = Release|Windows CE
+		{4CAFF5FA-281D-4D7C-9E5F-FF70F265F56B}.Release.Build.0 = Release|Windows CE
+		{4CAFF5FA-281D-4D7C-9E5F-FF70F265F56B}.Release.Deploy.0 = Release|Windows CE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

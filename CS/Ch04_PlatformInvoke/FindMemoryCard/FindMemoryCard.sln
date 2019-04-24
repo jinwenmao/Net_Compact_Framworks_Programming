@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "FindMemoryCard", "FindMemoryCard.csdproj", "{D5232464-82D5-4E05-8F71-26D0AC5CE862}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D5232464-82D5-4E05-8F71-26D0AC5CE862}.Debug.ActiveCfg = Debug|Pocket PC
+		{D5232464-82D5-4E05-8F71-26D0AC5CE862}.Debug.Build.0 = Debug|Pocket PC
+		{D5232464-82D5-4E05-8F71-26D0AC5CE862}.Debug.Deploy.0 = Debug|Pocket PC
+		{D5232464-82D5-4E05-8F71-26D0AC5CE862}.Release.ActiveCfg = Release|Pocket PC
+		{D5232464-82D5-4E05-8F71-26D0AC5CE862}.Release.Build.0 = Release|Pocket PC
+		{D5232464-82D5-4E05-8F71-26D0AC5CE862}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

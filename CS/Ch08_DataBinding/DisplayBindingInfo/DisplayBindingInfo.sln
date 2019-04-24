@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "DisplayBindingInfo", "DisplayBindingInfo.csdproj", "{E79EE8FC-17BB-4F1C-99C3-56DF0854560E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E79EE8FC-17BB-4F1C-99C3-56DF0854560E}.Debug.ActiveCfg = Debug|Pocket PC
+		{E79EE8FC-17BB-4F1C-99C3-56DF0854560E}.Debug.Build.0 = Debug|Pocket PC
+		{E79EE8FC-17BB-4F1C-99C3-56DF0854560E}.Debug.Deploy.0 = Debug|Pocket PC
+		{E79EE8FC-17BB-4F1C-99C3-56DF0854560E}.Release.ActiveCfg = Release|Pocket PC
+		{E79EE8FC-17BB-4F1C-99C3-56DF0854560E}.Release.Build.0 = Release|Pocket PC
+		{E79EE8FC-17BB-4F1C-99C3-56DF0854560E}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

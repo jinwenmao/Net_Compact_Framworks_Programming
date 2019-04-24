@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "Cistern", "Cistern.csdproj", "{70A87915-9021-4660-90C0-2DA37CBDAA1B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{70A87915-9021-4660-90C0-2DA37CBDAA1B}.Debug.ActiveCfg = Debug|Pocket PC
+		{70A87915-9021-4660-90C0-2DA37CBDAA1B}.Debug.Build.0 = Debug|Pocket PC
+		{70A87915-9021-4660-90C0-2DA37CBDAA1B}.Debug.Deploy.0 = Debug|Pocket PC
+		{70A87915-9021-4660-90C0-2DA37CBDAA1B}.Release.ActiveCfg = Release|Pocket PC
+		{70A87915-9021-4660-90C0-2DA37CBDAA1B}.Release.Build.0 = Release|Pocket PC
+		{70A87915-9021-4660-90C0-2DA37CBDAA1B}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

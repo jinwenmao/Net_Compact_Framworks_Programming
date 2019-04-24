@@ -1,0 +1,7 @@
+LIBRARY YaoDurantControls
+
+EXPORTS
+   CreateEventGrabber
+   DisposeEventGrabber
+   SetEventFlags
+   GetEventFlags

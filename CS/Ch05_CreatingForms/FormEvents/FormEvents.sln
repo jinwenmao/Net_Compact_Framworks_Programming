@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "FormEvents", "FormEvents.csdproj", "{90CCA0D6-7E58-4307-A324-9AC4EC32BACE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{90CCA0D6-7E58-4307-A324-9AC4EC32BACE}.Debug.ActiveCfg = Debug|Pocket PC
+		{90CCA0D6-7E58-4307-A324-9AC4EC32BACE}.Debug.Build.0 = Debug|Pocket PC
+		{90CCA0D6-7E58-4307-A324-9AC4EC32BACE}.Debug.Deploy.0 = Debug|Pocket PC
+		{90CCA0D6-7E58-4307-A324-9AC4EC32BACE}.Release.ActiveCfg = Release|Pocket PC
+		{90CCA0D6-7E58-4307-A324-9AC4EC32BACE}.Release.Build.0 = Release|Pocket PC
+		{90CCA0D6-7E58-4307-A324-9AC4EC32BACE}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "RDA", "RDA.csdproj", "{BC1676B1-6EFB-4D92-9C42-11B88F284CFF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BC1676B1-6EFB-4D92-9C42-11B88F284CFF}.Debug.ActiveCfg = Debug|Pocket PC
+		{BC1676B1-6EFB-4D92-9C42-11B88F284CFF}.Debug.Build.0 = Debug|Pocket PC
+		{BC1676B1-6EFB-4D92-9C42-11B88F284CFF}.Debug.Deploy.0 = Debug|Pocket PC
+		{BC1676B1-6EFB-4D92-9C42-11B88F284CFF}.Release.ActiveCfg = Release|Pocket PC
+		{BC1676B1-6EFB-4D92-9C42-11B88F284CFF}.Release.Build.0 = Release|Pocket PC
+		{BC1676B1-6EFB-4D92-9C42-11B88F284CFF}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

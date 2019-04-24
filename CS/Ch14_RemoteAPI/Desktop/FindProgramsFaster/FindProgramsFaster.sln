@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindProgramsFaster", "FindProgramsFaster.csproj", "{F44A0499-09D8-49B3-8D72-22DB1CAD1043}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F44A0499-09D8-49B3-8D72-22DB1CAD1043}.Debug.ActiveCfg = Debug|.NET
+		{F44A0499-09D8-49B3-8D72-22DB1CAD1043}.Debug.Build.0 = Debug|.NET
+		{F44A0499-09D8-49B3-8D72-22DB1CAD1043}.Release.ActiveCfg = Release|.NET
+		{F44A0499-09D8-49B3-8D72-22DB1CAD1043}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

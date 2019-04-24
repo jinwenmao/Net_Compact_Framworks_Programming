@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "FontPicker", "FontPicker.csdproj", "{94F084F9-D5AF-4F2D-BFB9-1AFB16AC35A9}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{94F084F9-D5AF-4F2D-BFB9-1AFB16AC35A9}.Debug.ActiveCfg = Debug|Pocket PC
+		{94F084F9-D5AF-4F2D-BFB9-1AFB16AC35A9}.Debug.Build.0 = Debug|Pocket PC
+		{94F084F9-D5AF-4F2D-BFB9-1AFB16AC35A9}.Debug.Deploy.0 = Debug|Pocket PC
+		{94F084F9-D5AF-4F2D-BFB9-1AFB16AC35A9}.Release.ActiveCfg = Release|Pocket PC
+		{94F084F9-D5AF-4F2D-BFB9-1AFB16AC35A9}.Release.Build.0 = Release|Pocket PC
+		{94F084F9-D5AF-4F2D-BFB9-1AFB16AC35A9}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

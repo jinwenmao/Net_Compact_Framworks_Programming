@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "FileDialogs", "FileDialogs.csdproj", "{9C995F0D-66A3-4BBF-B32B-D9A02B72BF64}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9C995F0D-66A3-4BBF-B32B-D9A02B72BF64}.Debug.ActiveCfg = Debug|Pocket PC
+		{9C995F0D-66A3-4BBF-B32B-D9A02B72BF64}.Debug.Build.0 = Debug|Pocket PC
+		{9C995F0D-66A3-4BBF-B32B-D9A02B72BF64}.Debug.Deploy.0 = Debug|Pocket PC
+		{9C995F0D-66A3-4BBF-B32B-D9A02B72BF64}.Release.ActiveCfg = Release|Pocket PC
+		{9C995F0D-66A3-4BBF-B32B-D9A02B72BF64}.Release.Build.0 = Release|Pocket PC
+		{9C995F0D-66A3-4BBF-B32B-D9A02B72BF64}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

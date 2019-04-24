@@ -1,0 +1,27 @@
+extern "C" __declspec ( dllexport ) void WINAPI ShowBooleanByVal(BYTE b);
+extern "C" __declspec ( dllexport ) void WINAPI ShowBooleanByRef(BYTE * b);
+extern "C" __declspec ( dllexport ) void WINAPI ShowByteByVal(BYTE val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowByteByRef(BYTE * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowSByteByVal(CHAR val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowSByteByRef(CHAR * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowInt16ByVal(SHORT val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowInt16ByRef(SHORT * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowUInt16ByVal(USHORT val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowUInt16ByRef(USHORT * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowInt32ByVal(LONG val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowInt32ByRef(LONG * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowUInt32ByVal(ULONG val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowUInt32ByRef(ULONG * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowInt64ByVal(__int64 val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowInt64ByRef(__int64 * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowUInt64ByVal(unsigned __int64 val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowUInt64ByRef(unsigned __int64 * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowSingleByVal(float val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowSingleByRef(float * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowDoubleByVal(double val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowDoubleByRef(double * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowCharByVal(WCHAR val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowCharByRef(WCHAR * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowStringByVal(WCHAR * val);
+extern "C" __declspec ( dllexport ) void WINAPI ShowStringByRef(WCHAR ** val);
+

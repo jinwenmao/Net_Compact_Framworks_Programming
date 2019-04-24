@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="GetNorthwindData">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetNorthwindDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetNorthwindDataResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="GetNorthwindDataSoapIn">
+    <part name="parameters" element="s0:GetNorthwindData" />
+  </message>
+  <message name="GetNorthwindDataSoapOut">
+    <part name="parameters" element="s0:GetNorthwindDataResponse" />
+  </message>
+  <portType name="DataSupplierSoap">
+    <operation name="GetNorthwindData">
+      <input message="s0:GetNorthwindDataSoapIn" />
+      <output message="s0:GetNorthwindDataSoapOut" />
+    </operation>
+  </portType>
+  <binding name="DataSupplierSoap" type="s0:DataSupplierSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="GetNorthwindData">
+      <soap:operation soapAction="http://tempuri.org/GetNorthwindData" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="DataSupplier">
+    <port name="DataSupplierSoap" binding="s0:DataSupplierSoap">
+      <soap:address location="http://207.202.168.30/WSService/DataSupplier.asmx" />
+    </port>
+  </service>
+</definitions>

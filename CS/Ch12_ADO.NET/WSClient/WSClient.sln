@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "WSClient", "WSClient.csdproj", "{B37BBB5C-1526-492A-8566-D28F68F68DB3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B37BBB5C-1526-492A-8566-D28F68F68DB3}.Debug.ActiveCfg = Debug|Pocket PC
+		{B37BBB5C-1526-492A-8566-D28F68F68DB3}.Debug.Build.0 = Debug|Pocket PC
+		{B37BBB5C-1526-492A-8566-D28F68F68DB3}.Debug.Deploy.0 = Debug|Pocket PC
+		{B37BBB5C-1526-492A-8566-D28F68F68DB3}.Release.ActiveCfg = Release|Pocket PC
+		{B37BBB5C-1526-492A-8566-D28F68F68DB3}.Release.Build.0 = Release|Pocket PC
+		{B37BBB5C-1526-492A-8566-D28F68F68DB3}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

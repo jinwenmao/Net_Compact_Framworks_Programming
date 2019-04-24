@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "Caret", "Caret.csdproj", "{A265C4D7-2B30-4614-80F1-2CA931E90917}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A265C4D7-2B30-4614-80F1-2CA931E90917}.Debug.ActiveCfg = Debug|Pocket PC
+		{A265C4D7-2B30-4614-80F1-2CA931E90917}.Debug.Build.0 = Debug|Pocket PC
+		{A265C4D7-2B30-4614-80F1-2CA931E90917}.Debug.Deploy.0 = Debug|Pocket PC
+		{A265C4D7-2B30-4614-80F1-2CA931E90917}.Release.ActiveCfg = Release|Pocket PC
+		{A265C4D7-2B30-4614-80F1-2CA931E90917}.Release.Build.0 = Release|Pocket PC
+		{A265C4D7-2B30-4614-80F1-2CA931E90917}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

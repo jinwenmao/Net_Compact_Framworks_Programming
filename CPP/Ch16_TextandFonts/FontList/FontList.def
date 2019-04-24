@@ -1,0 +1,7 @@
+LIBRARY FONTLIST
+
+EXPORTS
+   FontList_Create
+   FontList_GetCount
+   FontList_GetFace
+   FontList_Destroy

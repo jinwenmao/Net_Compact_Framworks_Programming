@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "WaterTempTest", "WaterTempTest\WaterTempTest.csdproj", "{6363CC03-71D1-400B-9458-AB841B24FBA8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "WaterTempControl", "WaterTempControl\WaterTempControl.csdproj", "{BBE8175F-CA2C-4B5D-974E-4E32387CFC63}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6363CC03-71D1-400B-9458-AB841B24FBA8}.Debug.ActiveCfg = Debug|Pocket PC
+		{6363CC03-71D1-400B-9458-AB841B24FBA8}.Debug.Build.0 = Debug|Pocket PC
+		{6363CC03-71D1-400B-9458-AB841B24FBA8}.Debug.Deploy.0 = Debug|Pocket PC
+		{6363CC03-71D1-400B-9458-AB841B24FBA8}.Release.ActiveCfg = Release|Pocket PC
+		{6363CC03-71D1-400B-9458-AB841B24FBA8}.Release.Build.0 = Release|Pocket PC
+		{6363CC03-71D1-400B-9458-AB841B24FBA8}.Release.Deploy.0 = Release|Pocket PC
+		{BBE8175F-CA2C-4B5D-974E-4E32387CFC63}.Debug.ActiveCfg = Debug|Pocket PC
+		{BBE8175F-CA2C-4B5D-974E-4E32387CFC63}.Debug.Build.0 = Debug|Pocket PC
+		{BBE8175F-CA2C-4B5D-974E-4E32387CFC63}.Debug.Deploy.0 = Debug|Pocket PC
+		{BBE8175F-CA2C-4B5D-974E-4E32387CFC63}.Release.ActiveCfg = Release|Pocket PC
+		{BBE8175F-CA2C-4B5D-974E-4E32387CFC63}.Release.Build.0 = Release|Pocket PC
+		{BBE8175F-CA2C-4B5D-974E-4E32387CFC63}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

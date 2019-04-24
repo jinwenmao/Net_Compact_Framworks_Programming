@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "WordWrap", "WordWrap.csdproj", "{10B2C0FE-DB87-4DD9-BF0E-67C8944674FD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{10B2C0FE-DB87-4DD9-BF0E-67C8944674FD}.Debug.ActiveCfg = Debug|Pocket PC
+		{10B2C0FE-DB87-4DD9-BF0E-67C8944674FD}.Debug.Build.0 = Debug|Pocket PC
+		{10B2C0FE-DB87-4DD9-BF0E-67C8944674FD}.Debug.Deploy.0 = Debug|Pocket PC
+		{10B2C0FE-DB87-4DD9-BF0E-67C8944674FD}.Release.ActiveCfg = Release|Pocket PC
+		{10B2C0FE-DB87-4DD9-BF0E-67C8944674FD}.Release.Build.0 = Release|Pocket PC
+		{10B2C0FE-DB87-4DD9-BF0E-67C8944674FD}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

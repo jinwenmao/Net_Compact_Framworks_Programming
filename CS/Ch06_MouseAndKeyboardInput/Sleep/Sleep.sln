@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "Sleep", "Sleep.csdproj", "{D9CB282E-0731-4836-B711-1AD325030930}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D9CB282E-0731-4836-B711-1AD325030930}.Debug.ActiveCfg = Debug|Pocket PC
+		{D9CB282E-0731-4836-B711-1AD325030930}.Debug.Build.0 = Debug|Pocket PC
+		{D9CB282E-0731-4836-B711-1AD325030930}.Debug.Deploy.0 = Debug|Pocket PC
+		{D9CB282E-0731-4836-B711-1AD325030930}.Release.ActiveCfg = Release|Pocket PC
+		{D9CB282E-0731-4836-B711-1AD325030930}.Release.Build.0 = Release|Pocket PC
+		{D9CB282E-0731-4836-B711-1AD325030930}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

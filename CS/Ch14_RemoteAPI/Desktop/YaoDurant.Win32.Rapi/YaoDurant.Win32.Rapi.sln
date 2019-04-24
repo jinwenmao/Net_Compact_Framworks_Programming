@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaoDurant.Win32.Rapi", "YaoDurant.Win32.Rapi.csproj", "{576DB491-14E1-43AA-9D72-E880A7C6388D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{576DB491-14E1-43AA-9D72-E880A7C6388D}.Debug.ActiveCfg = Debug|.NET
+		{576DB491-14E1-43AA-9D72-E880A7C6388D}.Debug.Build.0 = Debug|.NET
+		{576DB491-14E1-43AA-9D72-E880A7C6388D}.Release.ActiveCfg = Release|.NET
+		{576DB491-14E1-43AA-9D72-E880A7C6388D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

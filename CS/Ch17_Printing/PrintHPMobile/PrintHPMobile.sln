@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "PrintHPMobile", "PrintHPMobile.csdproj", "{3B522EE2-F195-4F98-B9F0-1779D1143130}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3B522EE2-F195-4F98-B9F0-1779D1143130}.Debug.ActiveCfg = Debug|Pocket PC
+		{3B522EE2-F195-4F98-B9F0-1779D1143130}.Debug.Build.0 = Debug|Pocket PC
+		{3B522EE2-F195-4F98-B9F0-1779D1143130}.Debug.Deploy.0 = Debug|Pocket PC
+		{3B522EE2-F195-4F98-B9F0-1779D1143130}.Release.ActiveCfg = Release|Pocket PC
+		{3B522EE2-F195-4F98-B9F0-1779D1143130}.Release.Build.0 = Release|Pocket PC
+		{3B522EE2-F195-4F98-B9F0-1779D1143130}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

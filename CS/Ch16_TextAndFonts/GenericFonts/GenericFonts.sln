@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "GenericFonts", "GenericFonts.csdproj", "{B60BBD00-694E-4A0D-A846-80AE0C748DD2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B60BBD00-694E-4A0D-A846-80AE0C748DD2}.Debug.ActiveCfg = Debug|Pocket PC
+		{B60BBD00-694E-4A0D-A846-80AE0C748DD2}.Debug.Build.0 = Debug|Pocket PC
+		{B60BBD00-694E-4A0D-A846-80AE0C748DD2}.Debug.Deploy.0 = Debug|Pocket PC
+		{B60BBD00-694E-4A0D-A846-80AE0C748DD2}.Release.ActiveCfg = Release|Pocket PC
+		{B60BBD00-694E-4A0D-A846-80AE0C748DD2}.Release.Build.0 = Release|Pocket PC
+		{B60BBD00-694E-4A0D-A846-80AE0C748DD2}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

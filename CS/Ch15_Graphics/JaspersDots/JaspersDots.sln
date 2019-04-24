@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "JaspersDots", "JaspersDots.csdproj", "{200F6E14-CD56-4F93-90D6-60C7DB9C4915}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{200F6E14-CD56-4F93-90D6-60C7DB9C4915}.Debug.ActiveCfg = Debug|Pocket PC
+		{200F6E14-CD56-4F93-90D6-60C7DB9C4915}.Debug.Build.0 = Debug|Pocket PC
+		{200F6E14-CD56-4F93-90D6-60C7DB9C4915}.Debug.Deploy.0 = Debug|Pocket PC
+		{200F6E14-CD56-4F93-90D6-60C7DB9C4915}.Release.ActiveCfg = Release|Pocket PC
+		{200F6E14-CD56-4F93-90D6-60C7DB9C4915}.Release.Build.0 = Release|Pocket PC
+		{200F6E14-CD56-4F93-90D6-60C7DB9C4915}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

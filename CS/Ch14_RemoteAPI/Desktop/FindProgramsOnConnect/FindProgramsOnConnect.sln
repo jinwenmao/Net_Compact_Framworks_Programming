@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindProgramsOnConnect", "FindProgramsOnConnect.csproj", "{6ABE43FA-0BBD-4A60-96F5-4ECDF273EC2C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6ABE43FA-0BBD-4A60-96F5-4ECDF273EC2C}.Debug.ActiveCfg = Debug|.NET
+		{6ABE43FA-0BBD-4A60-96F5-4ECDF273EC2C}.Debug.Build.0 = Debug|.NET
+		{6ABE43FA-0BBD-4A60-96F5-4ECDF273EC2C}.Release.ActiveCfg = Release|.NET
+		{6ABE43FA-0BBD-4A60-96F5-4ECDF273EC2C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
